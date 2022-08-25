@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/mysite/static/css/main.d33f9a1b.css",
+    "main.js": "/mysite/static/js/main.90163e7b.js",
+    "static/media/karan-kashyap-resume.pdf": "/mysite/static/media/karan-kashyap-resume.716f2330b4b6f2c3bec4.pdf",
+    "static/media/karankashyap.png": "/mysite/static/media/karankashyap.e23127aca0b8d15fd733.png",
+    "static/media/adversarialexamples.png": "/mysite/static/media/adversarialexamples.b4b8e39a873c3933b576.png",
+    "static/media/against-ambiguity.png": "/mysite/static/media/against-ambiguity.d577da8b5745f66256c5.png",
+    "static/media/medium.png": "/mysite/static/media/medium.3bafdbd797f50a66142c.png",
+    "static/media/pneumo-ml.png": "/mysite/static/media/pneumo-ml.dbc34b48bdde1be0bdb4.png",
+    "static/media/course-projects.png": "/mysite/static/media/course-projects.80ce76350c9bba5a7d01.png",
+    "static/media/browndatascience-logo.png": "/mysite/static/media/browndatascience-logo.0e09cb68c087a637d3c3.png",
+    "static/media/ccg-logo.png": "/mysite/static/media/ccg-logo.6c5a76689831e259ed36.png",
+    "static/media/bhig-logo.png": "/mysite/static/media/bhig-logo.31ea050e865070861124.png",
+    "static/media/sitare-logo.png": "/mysite/static/media/sitare-logo.d47b60d6b97939d7975c.png",
+    "static/media/spcs-logo.jpeg": "/mysite/static/media/spcs-logo.0a83c363654afc95607c.jpeg",
+    "static/media/wolfram-logo.png": "/mysite/static/media/wolfram-logo.69b2a3ea1f79a3135202.png",
+    "static/media/brownU-logo.svg": "/mysite/static/media/brownU-logo.65c9ccdbb08d9a614cda120ed9ea77a8.svg",
+    "index.html": "/mysite/index.html",
+    "static/media/skills-background.svg": "/mysite/static/media/skills-background.c6cd683c0f805cf77316.svg",
+    "static/media/aboutme-background.svg": "/mysite/static/media/aboutme-background.4ce8806a372d8cd0d6a8.svg",
+    "static/media/experience-background.svg": "/mysite/static/media/experience-background.5b471c302cda2fec38f9.svg",
+    "main.d33f9a1b.css.map": "/mysite/static/css/main.d33f9a1b.css.map",
+    "main.90163e7b.js.map": "/mysite/static/js/main.90163e7b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d33f9a1b.css",
+    "static/js/main.90163e7b.js"
+  ]
+}
