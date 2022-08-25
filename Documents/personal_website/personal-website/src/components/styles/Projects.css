@@ -1,0 +1,19 @@
+
+#projects {
+    padding: 2%;
+    text-align: center;
+}
+
+.section-title {
+    font-size: 4.5rem;
+    padding: 2%;
+}
+
+.course-projects {
+    margin: 0 auto;
+}
+
+.code-img {
+    margin-top: 2%;
+    color: grey;
+}

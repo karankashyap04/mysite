@@ -1,0 +1,35 @@
+
+.experience-card {
+    margin: 2%;
+}
+
+.card-ribbon {
+    background-color: #66aae5;
+    height: 10px;
+}
+
+.experience-img {
+    width: 60% ! important;
+    margin: 2% auto;
+}
+
+.experience-title {
+    color: #66aae5;
+}
+
+.experience-date {
+    padding: 0 0 2%;
+}
+
+.experience-description {
+    text-align: left;
+}
+
+.technology-stack {
+    margin-bottom: 2%;
+}
+
+.technology-chip {
+    color: white ! important;
+    background-color: #66aae5 ! important;
+}

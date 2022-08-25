@@ -1,0 +1,36 @@
+
+.fixed-navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #e8eef0;
+}
+
+.navbar-left {
+    font-family: 'Roboto';
+    font-size: 3rem;
+    font-weight: bold;
+    color: #3b444a;
+}
+
+.blue {
+    color: #3b90e5;
+}
+
+
+
+.navbar-right {
+    padding-top: 3%;
+}
+
+.navbar-links-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+@media only screen and (max-width: 460px) {
+    .navbar-links-container {
+        flex-direction: column;
+    }
+}

@@ -1,0 +1,20 @@
+
+.link-container {
+    margin: 0 2%;
+}
+
+.link-container:hover a {
+    color: #66aae5;
+}
+
+
+a {
+    font-family: 'Roboto';
+    color: #979899;
+    text-decoration: none;
+}
+
+a.active {
+    /* text-decoration: underline; */
+    color: #66aae5;
+}

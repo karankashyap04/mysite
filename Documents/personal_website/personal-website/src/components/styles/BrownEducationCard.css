@@ -1,0 +1,59 @@
+
+.education-card {
+    width: 75%;
+    margin: 2% auto;
+}
+
+.card-img {
+    width: 40% ! important;
+    margin: 3% auto;
+}
+
+.card-content {
+    text-align: left;
+    padding: 2%;
+    margin: 0 2%;
+    font-family: 'Roboto';
+}
+
+.card-content-div {
+    text-align: center;
+
+}
+
+
+.info-row-card {
+    margin: 4%;
+}
+
+.card-chip {
+    color: #66aae5 ! important;
+    border-color: #66aae5 ! important;
+    margin: 1% ! important;
+}
+
+.card-info-row-text {
+    text-align: center;
+}
+
+
+.club-col {
+    padding: 1%;
+}
+
+.fsab-logo {
+    width: 20%;
+}
+
+.bds-logo {
+    width: 25%;
+}
+
+.ccg-logo {
+    width: 40%;
+    margin: 2.7% 0;
+}
+
+.bhig-logo {
+    width: 16%;
+}

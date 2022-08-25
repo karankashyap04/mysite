@@ -1,0 +1,33 @@
+
+#skills {
+    background-image: url("../../assets/skills-background.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 2%;
+    text-align: left;
+}
+
+.section-title {
+    font-size: 4.5rem;
+    padding: 2%;
+    text-align: center;
+}
+
+
+.skill-col {
+    margin: 2% 0;
+    padding: 0 10%;
+}
+
+.skill-title {
+    color: #66aae5;
+    padding: 1% 0;
+}
+
+.skill-entry {
+    font-size: 1.2rem;
+}
+
+.star {
+    color: #66aae5;
+}

@@ -1,0 +1,132 @@
+
+@media only screen and (min-width: 768px) {
+    #aboutme {
+        margin-top: 80px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    #aboutme {
+        margin-top: 110px;
+    }
+}
+
+@media only screen and (max-width: 576px) {
+    #aboutme {
+        margin-top: 120px;
+    }
+}
+
+@media only screen and (max-width: 545px) {
+    #aboutme {
+        margin-top: 130px;
+    }
+}
+
+@media only screen and (max-width: 460px) {
+    #aboutme {
+        margin-top: 235px;
+    }
+}
+
+#aboutme {
+    background-image: url(../../assets/aboutme-background.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.aboutme-row {
+    padding: 10% 1%;
+    margin: 0;
+}
+
+.aboutme-left {
+    padding: 2%;
+}
+
+.name-header {
+    font-family: 'Roboto';
+    font-weight: bold;
+    font-size: 5rem;
+    color: #66aae5;
+}
+
+.tagline {
+    font-family: 'Roboto';
+    font-size: 1.4rem;
+    font-weight: 500;
+}
+
+.partial-span {
+    width: 40%;
+}
+
+.description {
+    font-family: 'Roboto';
+    font-size: 1.2rem;
+}
+
+.aboutme-right {
+    padding: 2%;
+    display: flex;
+    overflow: hidden;
+}
+
+.aboutme-right img {
+    width: 140%;
+    vertical-align: bottom;
+    align-self: flex-end;
+    /* overflow: hidden; */
+}
+
+@media only screen and (max-width: 767px) {
+    .aboutme-right img {
+        width: 50%;
+    }
+}
+
+/* @media only screen and (min-width: 1200px) {
+    .aboutme-right img {
+        width: 30%;
+    }
+} */
+
+.btn-primary {
+    background-color: #66aae5;
+    border-color: #66aae5;
+}
+
+.btn-primary:hover {
+    background-color: #3986c9;
+    border-color: #3986c9;
+}
+
+.btn-outline-primary {
+    color: #66aae5;
+    border-color: #66aae5;
+}
+
+.btn-outline-primary:hover {
+    background-color: #66aae5;
+    border-color: #66aae5;
+    color: white;
+}
+
+.resume-download-button {
+    margin-top: 2%;
+    margin-right: 10px;
+}
+
+.contact-me-button {
+    margin-top: 2%;
+}
+
+.socials {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.social-icon {
+    color: #66aae5;
+    margin: 10px 10px 0 0;
+}

@@ -1,0 +1,13 @@
+
+#experience {
+    background-image: url("../../assets/experience-background.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 2%;
+    text-align: center;
+}
+
+.section-title {
+    font-size: 4.5rem;
+    padding: 2%;
+}

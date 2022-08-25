@@ -1,0 +1,22 @@
+
+.project-card {
+    margin: 2%;
+}
+
+.card-ribbon {
+    background-color: #66aae5;
+    height: 10px;
+}
+
+.project-img {
+    width: 90% ! important;
+    margin: 2% auto;
+}
+
+.project-title {
+    color: #66aae5;
+}
+
+.project-description {
+    text-align: left;
+}
