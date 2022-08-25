@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mysite/static/css/main.d33f9a1b.css",
-    "main.js": "/mysite/static/js/main.90163e7b.js",
+    "main.js": "/mysite/static/js/main.64e28c01.js",
     "static/media/karan-kashyap-resume.pdf": "/mysite/static/media/karan-kashyap-resume.716f2330b4b6f2c3bec4.pdf",
     "static/media/karankashyap.png": "/mysite/static/media/karankashyap.e23127aca0b8d15fd733.png",
     "static/media/adversarialexamples.png": "/mysite/static/media/adversarialexamples.b4b8e39a873c3933b576.png",
@@ -21,10 +21,10 @@
     "static/media/aboutme-background.svg": "/mysite/static/media/aboutme-background.4ce8806a372d8cd0d6a8.svg",
     "static/media/experience-background.svg": "/mysite/static/media/experience-background.5b471c302cda2fec38f9.svg",
     "main.d33f9a1b.css.map": "/mysite/static/css/main.d33f9a1b.css.map",
-    "main.90163e7b.js.map": "/mysite/static/js/main.90163e7b.js.map"
+    "main.64e28c01.js.map": "/mysite/static/js/main.64e28c01.js.map"
   },
   "entrypoints": [
     "static/css/main.d33f9a1b.css",
-    "static/js/main.90163e7b.js"
+    "static/js/main.64e28c01.js"
   ]
 }
