@@ -17,7 +17,7 @@ function AboutMe() {
                     <div className="partial-span"><hr /></div>
                     <div className="description">
                         Hi there! <br />
-                        I solve the most interest problems, all with the use of code! <br />
+                        I solve the most interesting problems, all with the use of code! <br />
                         I'm a sophomore at Brown University, where I study Computer Science and
                         Behavioral Decision Sciences. My talent, passion, and calling find
                         themselves in Software Engineering and Artificial Intelligence, and also
